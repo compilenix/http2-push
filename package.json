@@ -1,0 +1,11 @@
+{
+	"name": "http2_test",
+	"version": "0.0.2",
+	"description": "A small node app which tests the \"server push\" feature of http/2",
+	"main": "server.js",
+	"author": "Compilenix <compilenix@compilenix.org>",
+	"license": "MIT",
+	"dependencies": {
+		"http2": "*"
+	}
+}
